@@ -1,3 +1,5 @@
+# Stacked Axial Flux Motors
+
 ### Exploring the 5x4x3 Planetary Gear Axial Flux Motor Design
 
 This concept is groundbreaking for applications requiring compact, high-torque, and high-speed actuation, such as robotic limbs.
